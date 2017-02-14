@@ -1,3 +1,4 @@
+# source https://www.tensorflow.org/tutorials/tflearn/#tf-contrib-learn-quickstart
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
