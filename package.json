@@ -1,0 +1,19 @@
+{
+  "name": "mytensorflow",
+  "version": "1.0.0",
+  "description": "mytensorflow examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alastairrough/MyTensorFlow.git"
+  },
+  "author": "Alastair Rough",
+  "license": "Apache 2.0 Open Source License",
+  "bugs": {
+    "url": "https://github.com/alastairrough/MyTensorFlow/issues"
+  },
+  "homepage": "https://github.com/alastairrough/MyTensorFlow#readme"
+}
